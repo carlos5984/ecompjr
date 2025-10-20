@@ -4,7 +4,7 @@ fiz a maior parte de uma so vez por isso infelizmente esta sem historico
 
 
 
-Este projeto é uma API desenvolvida em **FastAPI** para gerenciar as empresas da ecompjr.  
+API desenvolvida em **FastAPI** para gerenciar as empresas da ecompjr.  
 Permite cadastrar, listar, buscar, atualizar e remover empresas de forma simples e organizada.
 
 ---
